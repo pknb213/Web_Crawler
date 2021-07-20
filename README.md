@@ -43,3 +43,4 @@ chrome driver|Your Chrome|Dynamic Page
 예전에 만든거라서 쇼핑몰 상품 html 관련해서 변경 해주셔야 될 것 같습니다.
 main.py에서 주석처리해서 수집, 적재를 별도로 할 수 있습니다.
 Selenium의 사용은 동적 페이지일 경우를 위해 사용했으며 페이지가 동적이 아니면 lxml만 사용해서 더 빠르게 수집할 수 있습니다.
+코드 내에 업로드 되어있는 chome driver의 경우 window용 입니다.
